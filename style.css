@@ -116,9 +116,10 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
-li > * {
+.todo-list__item > * {
   vertical-align: middle;
 }
 
